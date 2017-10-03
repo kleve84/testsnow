@@ -3,3 +3,9 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.middlenav.menu {
+  background-color: #FFFFFF;
+  box-shadow: none;
+  border: none;
+}
