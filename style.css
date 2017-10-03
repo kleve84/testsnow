@@ -9,3 +9,10 @@
   box-shadow: none;
   border: none;
 }
+
+.background.color.black {
+  background-color: #292929;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #FFFFFF;
+}
